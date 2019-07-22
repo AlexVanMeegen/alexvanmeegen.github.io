@@ -1,2 +1,4 @@
 name: Alexander van Meegen
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
