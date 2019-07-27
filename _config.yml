@@ -1,4 +1,20 @@
-name: Alexander van Meegen
-markdown: kramdown
+title: Home
+author: Alexander van Meegen
+email: a.van.meegen@fz-juelich.de
+# description: A simple personal webpage.
+
+github_username: alexvanmeegen
+# linkedin_username: alexander-van-meegen
+twitter_username: alexvanmeegen
+
+show_excerpts: false
+
+header_pages:
+  - research.md
+  - teaching.md
+  - cv.md
+
+theme: minima
+
 plugins:
-  - jekyll-sitemap
+ - jekyll-seo-tag
