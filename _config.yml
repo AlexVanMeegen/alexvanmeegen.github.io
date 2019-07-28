@@ -16,5 +16,5 @@ header_pages:
   - teaching.md
   - cv.md
 
-theme: minima
+remote_theme: jekyll/minima
 
