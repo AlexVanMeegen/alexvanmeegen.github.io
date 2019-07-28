@@ -1,11 +1,13 @@
 title: Home
 author: Alexander van Meegen
 email: a.van.meegen@fz-juelich.de
-# description: A rudimentary personal webpage.
+description: A rudimentary personal webpage.
 
-github_username: alexvanmeegen
-# linkedin_username: alexander-van-meegen
-twitter_username: alexvanmeegen
+minima:
+  social_links:
+    github: alexvanmeegen
+    linkedin: alexander-van-meegen
+    twitter: alexvanmeegen
 
 show_excerpts: false
 
@@ -16,5 +18,3 @@ header_pages:
 
 theme: minima
 
-plugins:
- - jekyll-seo-tag
