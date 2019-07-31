@@ -3,6 +3,8 @@ author: Alexander van Meegen
 email: a.van.meegen@fz-juelich.de
 description: A rudimentary personal webpage.
 
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+
 google_analytics: UA-145007308-1
 
 minima:
