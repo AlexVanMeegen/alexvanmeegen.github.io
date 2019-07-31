@@ -1,6 +1,6 @@
 # alexvanmeegen.github.io
 
-A rudimentary personal [webpage](https://alexvanmeegen.github.io/) based on [GitHub Pages](https://pages.github.com/) and [Jekyll](https://github.com/jekyll/jekyll) using the [minima](https://github.com/jekyll/minima) theme.
+A rudimentary personal webpage based on [GitHub Pages](https://pages.github.com/) and [Jekyll](https://github.com/jekyll/jekyll) using the [minima](https://github.com/jekyll/minima) theme.
 
 ## Build locally
 
