@@ -20,3 +20,5 @@ header_pages:
 
 remote_theme: jekyll/minima
 
+plugins:
+  - jekyll-sitemap
