@@ -12,3 +12,11 @@ Advisor: [Prof. Dr. Benjamin Lindner](http://people.physik.hu-berlin.de/~neuroph
 **Bachelor of Science in Physics**, [Ruprecht-Karls-Universität Heidelberg](https://www.uni-heidelberg.de/en)  
 Thesis Title: *Structure Formation of Swimming Bacteria*  
 Advisor: [Prof. Dr. Ulrich Schwarz](https://www.thphys.uni-heidelberg.de/~biophys/)
+
+### Work
+
+**Working student**, [VDI/VDE Innovation + Technik GmbH, Berlin]()  
+Topics: innovation consulting, data mining
+
+**Working student**, [EWC Weather Consult GmbH, Karlsruhe]()  
+Topics: weather service, data analytics

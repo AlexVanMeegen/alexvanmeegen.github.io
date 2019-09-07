@@ -3,12 +3,18 @@ layout: page
 title: Research
 ---
 
-### Talks
+### Dynamic Mean-Field Theory
 
-**Self-Consistent Correlations of Randomly Coupled Rotators in the Asynchronous State**  
-*CNS 2019 Main Meeting*, Barcelona, Spain ([pdf](pdf/CNS19_rotators.pdf))
+#### Random Networks of Spiking Neurons
 
-### Publications
+<!-- <img src="png/dmft_spiking.png" alt="spiking DMFT sketch" width="300"/> -->
 
-*Self-Consistent Correlations of Randomly Coupled Rotators in the Asynchronous State*  
-A. van Meegen and B. Lindner, [Phys. Rev. Lett. **121**, 258302 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.258302) [[Supplementary Material](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.258302/vanmeegen_lindner_2018_suppmat.pdf)]
+* **Preprint**: A. van Meegen and S.J. van Albada, [arXiv:1909.01908 (2019)](https://arxiv.org/abs/1909.01908)
+* **Poster**: *CNS 2019*, Barcelona, Spain ([pdf](pdf/CNS19_timescales.pdf))
+
+#### Random Networks of Oscillatory Elements
+
+<!-- <img src="png/dmft_rotators.png" alt="rotator DMFT sketch" width="300"/> -->
+
+* **Publication**: A. van Meegen and B. Lindner, [Phys. Rev. Lett. **121**, 258302 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.258302) [[Supp. Mat.](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.258302/vanmeegen_lindner_2018_suppmat.pdf)]
+* **Talk**: *CNS 2019 Main Meeting*, Barcelona, Spain ([pdf](pdf/CNS19_rotators.pdf))
