@@ -3,6 +3,8 @@ layout: page
 title: CV
 ---
 
+<!-- TODO: Upload CV here -->
+
 ### Education
 
 **Master of Science in Physics**, [Humboldt Universität zu Berlin](https://www.hu-berlin.de/en)  
@@ -15,8 +17,8 @@ Advisor: [Prof. Dr. Ulrich Schwarz](https://www.thphys.uni-heidelberg.de/~biophy
 
 ### Work
 
-**Working student**, [VDI/VDE Innovation + Technik GmbH, Berlin]()  
+**Working student**, [VDI/VDE Innovation + Technik GmbH, Berlin](https://vdivde-it.de/en)  
 Topics: innovation consulting, data mining
 
-**Working student**, [EWC Weather Consult GmbH, Karlsruhe]()  
+**Working student**, [EWC Weather Consult GmbH, Karlsruhe](https://www.ubimet.com/en/)  
 Topics: weather service, data analytics
