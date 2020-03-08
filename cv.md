@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-<!-- TODO: Upload CV here -->
+You can find an full CV here ([January 2020](pdf/CV.pdf)).
 
 ### Education
 
