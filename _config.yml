@@ -1,6 +1,7 @@
 title: Home
-author: Alexander van Meegen
-email: a.van.meegen@fz-juelich.de
+author:
+  name: Alexander van Meegen
+  email: a.van.meegen@fz-juelich.de
 description: What I cannot create, I do not understand
 
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
@@ -24,3 +25,4 @@ remote_theme: jekyll/minima
 
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
