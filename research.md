@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+See also my [Google Scholar page](https://scholar.google.de/citations?user=2HpXCQ0AAAAJ).
+
 ### Dynamic Mean-Field Theory
 
 #### Random Networks of Spiking Neurons
