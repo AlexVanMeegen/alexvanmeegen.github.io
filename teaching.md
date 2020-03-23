@@ -3,6 +3,20 @@ layout: page
 title: Teaching
 ---
 
+### Python Module of the Week
+
+I am organizing a biweekly session about Python and related topics ([repo](https://github.com/INM-6/Python-Module-of-the-Week/wiki)). My own contributions:
+* [TensorFlow by example](https://github.com/INM-6/Python-Module-of-the-Week/tree/master/session11_Tensorflow)
+* [NEST tutorial](https://github.com/INM-6/Python-Module-of-the-Week/tree/master/session20_NEST)
+* [GitHub Pull Requests & Code Review](https://github.com/INM-6/Python-Module-of-the-Week/tree/master/session23_PullRequests)
+* [Organizing, documenting and distributing scientific code](https://github.com/INM-6/Python-Module-of-the-Week/tree/master/session26_distutils)
+* [Advanced Numpy & Pandas](https://github.com/INM-6/Python-Module-of-the-Week/tree/master/session29_NumpyPandas)
+
+### Lectures
+
+**Network Models I & II**  
+*Introduction to Computational Neuroscience*, RWTH Aachen, Germany
+
 ### Tutorials
 
 **Introduction to the simulation of structurally detailed large-scale neuronal networks (using NEST)**  
