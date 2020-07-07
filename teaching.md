@@ -30,5 +30,8 @@ I am organizing a biweekly session about Python and related topics ([repo](https
 
 ### Teaching Assistant
 
+**Theoretical Neuroscience - Fluctuations and Correlations in Neuronal Networks** (summer term 2020)  
+*RWTH Aachen*, Aachen, Germany
+
 **Statistical Physics** (winter term 2016/17)  
 *Humboldt Universität*, Berlin, Germany
