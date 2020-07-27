@@ -14,4 +14,4 @@ bundle update
 
 ## Acknowledgements
 
-Huge credits to Jonathan McGlone's [guide](http://jmcglone.com/guides/github-pages/).
+Huge credits to Jonathan McGlone's [guide](http://jmcglone.com/guides/github-pages/). Favicon generated using the [favicon.io](https://favicon.io/) generator.
