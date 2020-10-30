@@ -5,12 +5,13 @@ title: Teaching
 
 ### Python Module of the Week
 
-I am organizing a biweekly session about Python and related topics ([repo](https://github.com/INM-6/Python-Module-of-the-Week/wiki)). My own contributions:
+I used to organize a biweekly session about Python and related topics ([repo](https://github.com/INM-6/Python-Module-of-the-Week/wiki)). My own contributions:
 * [TensorFlow by example](https://github.com/INM-6/Python-Module-of-the-Week/tree/master/session11_Tensorflow)
 * [NEST tutorial](https://github.com/INM-6/Python-Module-of-the-Week/tree/master/session20_NEST)
 * [GitHub Pull Requests & Code Review](https://github.com/INM-6/Python-Module-of-the-Week/tree/master/session23_PullRequests)
 * [Organizing, documenting and distributing scientific code](https://github.com/INM-6/Python-Module-of-the-Week/tree/master/session26_distutils)
 * [Advanced Numpy & Pandas](https://github.com/INM-6/Python-Module-of-the-Week/tree/master/session29_NumpyPandas)
+* [Jekyll & GitHub Pages](https://github.com/INM-6/Python-Module-of-the-Week/tree/master/session33_Jekyll)
 
 ### Lectures
 

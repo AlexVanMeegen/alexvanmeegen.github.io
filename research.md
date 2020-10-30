@@ -7,6 +7,11 @@ See also my [Google Scholar page](https://scholar.google.de/citations?user=2HpXC
 
 ### Dynamic Mean-Field Theory
 
+#### Large Deviation Approach to Dynamic Mean-Field Theory
+
+* **Preprint**: A. van Meegen, T. Kühn, and M. Helias, [arXiv:2009.08889 (2020)](https://arxiv.org/abs/2009.08889)
+* **Poster**: *COSYNE 2020*, Denver, United States ([pdf](pdf/COSYNE20_pathdeviation.pdf))
+
 #### Random Networks of Spiking Neurons
 
 <!-- <img src="png/dmft_spiking.png" alt="spiking DMFT sketch" width="300"/> -->
