@@ -18,8 +18,8 @@ Indeed, for random networks, one can start from the N-dimensional, coupled syste
 
 #### Large-Deviation Approach to Random Recurrent Neuronal Networks: Parameter Inference and Fluctuation-Induced Transitions
 
-<img src="png/PRL21_Fig2.png" alt="connectivity inference" width="350" border="2px solid #555"/>
 <img src="png/PRL21_Fig3.png" alt="fluctuations" width="350" border="2px solid #555"/>
+<img src="png/PRL21_Fig2.png" alt="connectivity inference" width="350" border="2px solid #555"/>
 
 * **Publication**: A. van Meegen, T. Kühn, and M. Helias, [Phys. Rev. Lett. (accepted)](https://journals.aps.org/prl/accepted/eb07aYdeJda1ae6307ad82a19f2fd3cadd1200467)
 * **Poster**: *COSYNE 2020*, Denver, United States ([pdf](pdf/COSYNE20_pathdeviation.pdf))
