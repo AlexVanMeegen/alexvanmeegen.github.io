@@ -21,7 +21,7 @@ Indeed, for random networks, one can start from the N-dimensional, coupled syste
 <img src="png/PRL21_Fig3.png" alt="fluctuations" width="350" border="2px solid #555"/>
 <img src="png/PRL21_Fig2.png" alt="connectivity inference" width="350" border="2px solid #555"/>
 
-* **Publication**: A. van Meegen, T. Kühn, and M. Helias, [Phys. Rev. Lett. (accepted)](https://journals.aps.org/prl/accepted/eb07aYdeJda1ae6307ad82a19f2fd3cadd1200467)
+* **Publication**: A. van Meegen, T. Kühn, and M. Helias, [Phys. Rev. Lett. **127**, 158302 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158302)
 * **Poster**: *COSYNE 2020*, Denver, United States ([pdf](pdf/COSYNE20_pathdeviation.pdf))
 
 A particular realization of a random network leads, through its dynamics, to particular network-averaged observables (think correlation functions). Hence, the ensemble of random networks gives rise to a distribution of observables. We calculated the latter distribution to leading order using field theory and large deviations theory, building on the pioneering work of [Ben-Arous and Guionnet](https://link.springer.com/article/10.1007/BF01198846).
