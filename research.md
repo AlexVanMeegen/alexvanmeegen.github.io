@@ -44,9 +44,9 @@ Using DMFT, we derived an ordinary differential equation determining the network
 
 Deep in the mean-driven regime, spiking neurons behave similar to oscillators. Thus, we extended our theory to mimic the spike-based coupling of cortical neurons. This allowed us to determine the power spectra of a sparse, heterogeneous network of excitatory and inhibitory exponential integrate-and-fire neurons deep in the mean-driven regime.
 
-#### A Microscopic Theory of Intrinsic Timescales in Spiking Neural Networks
+#### Microscopic Theory of Intrinsic Timescales in Spiking Neural Networks
 
-* **Preprint**: A. van Meegen and S.J. van Albada, [arXiv:1909.01908 (2019)](https://arxiv.org/abs/1909.01908)
+* **Publication**: A. van Meegen and S.J. van Albada, [Phys. Rev. Res. **3**, 043077 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043077)
 * **Poster**: *CNS 2019*, Barcelona, Spain ([pdf](pdf/CNS19_timescales.pdf))
 
 <!-- ## Large-Scale Simulations -->
