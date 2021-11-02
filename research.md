@@ -35,7 +35,7 @@ Complementary, the distribution of observables also enabled progress on the forw
 <img src="png/PRL18_Fig2.png" alt="rotator spectra" width="350" border="2px solid #555"/>
 <img src="png/PRL18_Fig4.png" alt="spiking spectra" width="350" border="2px solid #555"/>
 
-* **Publication**: A. van Meegen and B. Lindner, [Phys. Rev. Lett. **121**, 258302 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.258302) [[Supp. Mat.](https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.121.258302/vanmeegen_lindner_2018_suppmat.pdf)]
+* **Publication**: A. van Meegen and B. Lindner, [Phys. Rev. Lett. **121**, 258302 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.258302)
 * **Talk**: *CNS 2019 Main Meeting*, Barcelona, Spain ([pdf](pdf/CNS19_rotators.pdf))
 
 The dynamics of cortical networks in awake, behaving animals are typically asynchronous and irregular. We set out to find a toy model that features such an network state but is still analytically tractable. To this end, we investigated a random network of oscillatory units (rotators).
@@ -46,7 +46,10 @@ Deep in the mean-driven regime, spiking neurons behave similar to oscillators. T
 
 #### Microscopic Theory of Intrinsic Timescales in Spiking Neural Networks
 
-* **Publication**: A. van Meegen and S.J. van Albada, [Phys. Rev. Res. **3**, 043077 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043077)
+<img src="png/PRR21_Fig5.png" alt="brunel glm" width="350" border="2px solid #555"/>
+<img src="png/PRR21_Fig4.png" alt="glm parameter scan" width="350" border="2px solid #555"/>
+
+* **Publication**: A. van Meegen and S.J. van Albada, [Phys. Rev. Research **3**, 043077 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043077)
 * **Poster**: *CNS 2019*, Barcelona, Spain ([pdf](pdf/CNS19_timescales.pdf))
 
 <!-- ## Large-Scale Simulations -->
