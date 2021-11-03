@@ -52,4 +52,10 @@ Deep in the mean-driven regime, spiking neurons behave similar to oscillators. T
 * **Publication**: A. van Meegen and S.J. van Albada, [Phys. Rev. Research **3**, 043077 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043077)
 * **Poster**: *CNS 2019*, Barcelona, Spain ([pdf](pdf/CNS19_timescales.pdf))
 
+Neurons communicate predominantly through spikes. How does this spike-based interaction affect the recurrent dynamics of random networks? In particular, how does it affect their temporal correlations (intrinsic timescales)? Are long intrinsic timescales possible despite the white spiking noise?
+
+To address these questions, we built upon the recently developed model-independent DMFT by [Keup et al](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.021064). Furthermore, we developed novel approximations and solutions to the colored noise problem - mapping temporal input correlations to temporal output correlations - for LIF and GLM neurons.
+
+The resulting theory allows for parameter scans which revealed that there are regimes with intermediate intrinsic timescales in balanced networks of GLM neurons. Furthermore, the structure of the temporal correlations are fundamentally different in GLM and LIF networks: Longer intrinsic timescales correspond to bursty spiking for the former and to an effective refractory period for the latter.
+
 <!-- ## Large-Scale Simulations -->
