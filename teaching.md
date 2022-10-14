@@ -6,8 +6,8 @@ title: Teaching
 ### Notes
 
 Brief notes on specific topics:
-* [A mathematically offensive introduction to SDEs: a bag of tricks and analytical solutions](pdf/sde.pdf)
-* [The Fokker-Planck Equation: Transporting Probabilities](pdf/fpe.pdf)
+* [A mathematically offensive introduction to SDEs: a bag of tricks and analytical solutions](assets/pdf/sde.pdf)
+* [The Fokker-Planck Equation: Transporting Probabilities](assets/pdf/fpe.pdf)
 
 ### Python Module of the Week
 

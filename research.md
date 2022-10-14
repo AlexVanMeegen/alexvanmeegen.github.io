@@ -18,11 +18,11 @@ For random networks, one can start from the N-dimensional, coupled system of dif
 
 #### Large-Deviation Approach to Random Recurrent Neuronal Networks: Parameter Inference and Fluctuation-Induced Transitions
 
-<img src="png/PRL21_Fig3.png" alt="fluctuations" width="350" border="2px solid #555"/>
-<img src="png/PRL21_Fig2.png" alt="connectivity inference" width="350" border="2px solid #555"/>
+<img src="assets/png/PRL21_Fig3.png" alt="fluctuations" width="350" border="2px solid #555"/>
+<img src="assets/png/PRL21_Fig2.png" alt="connectivity inference" width="350" border="2px solid #555"/>
 
 * **Publication**: A. van Meegen, T. Kühn, and M. Helias, [Phys. Rev. Lett. **127**, 158302 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158302)
-* **Poster**: *COSYNE 2020*, Denver, United States ([pdf](pdf/COSYNE20_pathdeviation.pdf))
+* **Poster**: *COSYNE 2020*, Denver, United States ([pdf](assets/pdf/COSYNE20_pathdeviation.pdf))
 
 A particular realization of a random network leads, through its dynamics, to particular network-averaged observables (think correlation functions). Hence, the ensemble of random networks gives rise to a distribution of observables. We calculated the latter distribution to leading order using field theory and large deviations theory, building on the pioneering work of [Ben-Arous and Guionnet](https://link.springer.com/article/10.1007/BF01198846).
 
@@ -32,11 +32,11 @@ Complementary, the distribution of observables also enabled progress on the forw
 
 #### Self-Consistent Correlations of Randomly Coupled Rotators in the Asynchronous State
 
-<img src="png/PRL18_Fig2.png" alt="rotator spectra" width="350" border="2px solid #555"/>
-<img src="png/PRL18_Fig4.png" alt="spiking spectra" width="350" border="2px solid #555"/>
+<img src="assets/png/PRL18_Fig2.png" alt="rotator spectra" width="350" border="2px solid #555"/>
+<img src="assets/png/PRL18_Fig4.png" alt="spiking spectra" width="350" border="2px solid #555"/>
 
 * **Publication**: A. van Meegen and B. Lindner, [Phys. Rev. Lett. **121**, 258302 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.258302)
-* **Talk**: *CNS 2019 Main Meeting*, Barcelona, Spain ([pdf](pdf/CNS19_rotators.pdf))
+* **Talk**: *CNS 2019 Main Meeting*, Barcelona, Spain ([pdf](assets/pdf/CNS19_rotators.pdf))
 
 The dynamics of cortical networks in awake, behaving animals are typically asynchronous and irregular. We set out to find a toy model that features such an network state but is still analytically tractable. To this end, we investigated a random network of oscillatory units (rotators).
 
@@ -46,11 +46,11 @@ Deep in the mean-driven regime, spiking neurons behave similar to oscillators. T
 
 #### Microscopic Theory of Intrinsic Timescales in Spiking Neural Networks
 
-<img src="png/PRR21_Fig5.png" alt="brunel glm" width="350" border="2px solid #555"/>
-<img src="png/PRR21_Fig4.png" alt="glm parameter scan" width="350" border="2px solid #555"/>
+<img src="assets/png/PRR21_Fig5.png" alt="brunel glm" width="350" border="2px solid #555"/>
+<img src="assets/png/PRR21_Fig4.png" alt="glm parameter scan" width="350" border="2px solid #555"/>
 
 * **Publication**: A. van Meegen and S.J. van Albada, [Phys. Rev. Research **3**, 043077 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043077)
-* **Poster**: *CNS 2019*, Barcelona, Spain ([pdf](pdf/CNS19_timescales.pdf))
+* **Poster**: *CNS 2019*, Barcelona, Spain ([pdf](assets/pdf/CNS19_timescales.pdf))
 
 Neurons communicate predominantly through spikes. How does this spike-based interaction affect the recurrent dynamics of random networks? In particular, how does it affect their temporal correlations (intrinsic timescales)? Are long intrinsic timescales possible despite the white spiking noise?
 
@@ -62,8 +62,8 @@ The resulting theory allows for parameter scans which revealed that there are re
 
 #### Unified Field Theoretical Approach to Deep and Recurrent Neuronal Networks
 
-<img src="png/JSTAT22_Fig1.png" alt="gp limit" width="350" border="2px solid #555"/>
-<img src="png/JSTAT22_Fig3.png" alt="nlo corrections" width="350" border="2px solid #555"/>
+<img src="assets/png/JSTAT22_Fig1.png" alt="gp limit" width="350" border="2px solid #555"/>
+<img src="assets/png/JSTAT22_Fig3.png" alt="nlo corrections" width="350" border="2px solid #555"/>
 
 * **Publication**: K. Segadlo, B. Epping, A. van Meegen, D. Dahmen, M. Krämer, and M. Helias, [J. Stat. Mech., 103401 (2022)](https://iopscience.iop.org/article/10.1088/1742-5468/ac8e57)
 
