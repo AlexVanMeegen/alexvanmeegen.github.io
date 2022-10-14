@@ -3,6 +3,12 @@ layout: page
 title: Teaching
 ---
 
+### Notes
+
+Brief notes on specific topics:
+* [A mathematically offensive introduction to SDEs: a bag of tricks and analytical solutions](pdf/sde.pdf)
+* [The Fokker-Planck Equation: Transporting Probabilities](pdf/fpe.pdf)
+
 ### Python Module of the Week
 
 I used to organize a biweekly session about Python and related topics ([repo](https://github.com/INM-6/Python-Module-of-the-Week/wiki)). My own contributions:
