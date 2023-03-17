@@ -4,15 +4,22 @@ author:
   email: avanmeegen@fas.harvard.edu
 description: More Is Different
 
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+# exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
 
 google_analytics: UA-145007308-1
 
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 minima:
   social_links:
-    github: alexvanmeegen
-    linkedin: alexander-van-meegen
-    twitter: alexvanmeegen
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=2HpXCQ0AAAAJ" }
+    - { platform: twitter,        user_url: "https://twitter.com/alexvanmeegen" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/alexander-van-meegen" }
+    - { platform: github,         user_url: "https://github.com/alexvanmeegen" }
 
 show_excerpts: false
 
@@ -20,10 +27,3 @@ header_pages:
   - research.md
   - teaching.md
   - cv.md
-
-remote_theme: jekyll/minima
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag

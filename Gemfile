@@ -1,5 +1,7 @@
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-gem "minima", git: "https://github.com/jekyll/minima.git", branch: "master"
+# frozen_string_literal: true
 
-gem "webrick", "~> 1.7"
+source "https://rubygems.org"
+gemspec
+
+gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
+gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
