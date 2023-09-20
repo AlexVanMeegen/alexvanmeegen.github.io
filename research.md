@@ -8,7 +8,7 @@ title: Research
 * this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-See also my [Google Scholar](https://scholar.google.de/citations?user=2HpXCQ0AAAAJ) or [Orcid](https://orcid.org/0000-0003-2766-3982) pages.
+See also my [Google Scholar](https://scholar.google.de/citations?user=2HpXCQ0AAAAJ) or [Orcid](https://orcid.org/0000-0003-2766-3982) pages. My dissertation is published [here](https://kups.ub.uni-koeln.de/64465/).
 
 ## Dynamics of Random Networks
 
