@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-You can find an full CV here ([October 2022](assets/pdf/CV.pdf)).
+You can find an full CV here ([June 2024](assets/pdf/CV.pdf)).
 
 ### Education
 
