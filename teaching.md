@@ -21,24 +21,32 @@ I used to organize a biweekly session about Python and related topics ([repo](ht
 
 ### Lectures
 
-**Network Models I & II**  
+**Network Models I & II**
 *Introduction to Computational Neuroscience*, RWTH Aachen, Germany
 
-### Tutorials
+### Teaching Fellow
 
-**Introduction to the simulation of structurally detailed large-scale neuronal networks (using NEST)**  
-*CNS 2019 Tutorial*, Barcelona, Spain ([repo](https://github.com/alexvanmeegen/CNS2019_NEST_Tutorial))
+**Computational Neuroscience** (spring 2024):
+*Harvard University*, Cambridge, MA
 
-**NEST simulator tutorial**  
-*EITN Spring School 2019*, Paris, France ([repo](https://github.com/alexvanmeegen/eitn_spring_school))
-
-**NEST simulator tutorial**  
-*EITN Spring School 2018*, Paris, France
+**Statistical Mechanics of Spin Glasses and Neural Networks** (spring 2023):
+*Harvard University*, Cambridge, MA
 
 ### Teaching Assistant
 
-**Theoretical Neuroscience - Fluctuations and Correlations in Neuronal Networks** (summer term 2020)  
+**Theoretical Neuroscience - Fluctuations and Correlations in Neuronal Networks** (summer 2020):
 *RWTH Aachen*, Aachen, Germany
 
-**Statistical Physics** (winter term 2016/17)  
+**Statistical Physics** (winter 2016/17):
 *Humboldt Universität*, Berlin, Germany
+
+### Tutorials
+
+**Introduction to the simulation of structurally detailed large-scale neuronal networks (using NEST)**:
+*CNS 2019 Tutorial*, Barcelona, Spain ([repo](https://github.com/alexvanmeegen/CNS2019_NEST_Tutorial))
+
+**NEST simulator tutorial**
+*EITN Spring School 2019*, Paris, France ([repo](https://github.com/alexvanmeegen/eitn_spring_school))
+
+**NEST simulator tutorial**:
+*EITN Spring School 2018*, Paris, France

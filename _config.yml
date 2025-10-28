@@ -3,7 +3,7 @@ author:
   name: Alexander van Meegen
   email: alexander.vanmeegen@epfl.ch
 description: >
-  Theory of Neural Networks (how the heck do they work?)
+  Theory of neural networks (how the heck do they work?)
 
 google_analytics: G-MY9YFCGP0Q
 
@@ -30,15 +30,15 @@ minima:
     - title: Scholar
       icon: google-scholar
       url: "https://scholar.google.com/citations?user=2HpXCQ0AAAAJ"
-    - title: Bluesky
-      icon: bluesky
-      url: "https://bsky.app/profile/avm.bsky.social"
-    - title: X
-      icon: x-twitter
-      url: "https://twitter.com/alexvanmeegen"
     - title: Linkedin
       icon: linkedin
       url: "https://www.linkedin.com/in/alexander-van-meegen"
     - title: Github
       icon: github
       url: "https://github.com/alexvanmeegen"
+    - title: Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/avm.bsky.social"
+    - title: X
+      icon: x-twitter
+      url: "https://twitter.com/alexvanmeegen"
