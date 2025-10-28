@@ -2,28 +2,43 @@ title: Home
 author:
   name: Alexander van Meegen
   email: alexander.vanmeegen@epfl.ch
-description: More Is Different
+description: >
+  Theory of Neural Networks (how the heck do they work?)
 
-# exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
-
-google_analytics: UA-145007308-1
+google_analytics: G-MY9YFCGP0Q
 
 theme: minima
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 minima:
+  skin: classic
+  show_excerpts: false
+  hide_site_feed_link: true
+  nav_pages:
+    - research.md
+    - teaching.md
+    - cv.md
+  date_format: "%d.%b.%Y"
   social_links:
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=2HpXCQ0AAAAJ" }
-    - { platform: twitter,        user_url: "https://twitter.com/alexvanmeegen" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/alexander-van-meegen" }
-    - { platform: github,         user_url: "https://github.com/alexvanmeegen" }
-
-show_excerpts: false
-
-header_pages:
-  - research.md
-  - teaching.md
-  - cv.md
+    - title: Scholar
+      icon: google-scholar
+      url: "https://scholar.google.com/citations?user=2HpXCQ0AAAAJ"
+    - title: Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/avm.bsky.social"
+    - title: X
+      icon: x-twitter
+      url: "https://twitter.com/alexvanmeegen"
+    - title: Linkedin
+      icon: linkedin
+      url: "https://www.linkedin.com/in/alexander-van-meegen"
+    - title: Github
+      icon: github
+      url: "https://github.com/alexvanmeegen"
