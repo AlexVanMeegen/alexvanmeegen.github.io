@@ -30,15 +30,15 @@ minima:
     - title: Scholar
       icon: google-scholar
       url: "https://scholar.google.com/citations?user=2HpXCQ0AAAAJ"
+    - title: Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/avm.bsky.social"
     - title: Linkedin
       icon: linkedin
       url: "https://www.linkedin.com/in/alexander-van-meegen"
     - title: Github
       icon: github
       url: "https://github.com/alexvanmeegen"
-    - title: Bluesky
-      icon: bluesky
-      url: "https://bsky.app/profile/avm.bsky.social"
     - title: X
       icon: x-twitter
       url: "https://twitter.com/alexvanmeegen"
