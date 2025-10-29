@@ -25,6 +25,10 @@ Working in a Bayesian perspective allows to circumvent all difficulties related 
 * **Publication**: A. van Meegen and H. Sompolinsky, [Nature Communications 16, 3354 (2025)](https://www.nature.com/articles/s41467-025-58276-6)
 * **Poster**: *Bernstein 2025*, Frankfurt a. M., Germany ([pdf](assets/pdf/Bernstein25_codingschemes.pdf))
 
+This work addresses one central question: what is the structure of learned representations in artificial neural networks? To this end, we developed a theory of the Bayes posterior deep in the feature learning regime, where the network weights are significantly changed by learning. Although the theory applies to arbitrary supervised tasks, we focused on classification tasks because they impose a clear structure. Indeed, this structure is mirrored in the learned representations via "coding schemes" where neurons show category selectivity: they become active for specific subsets of classes.
+
+A very surprising result was the profound impact of the neuronal non-linearity, which leads to fundamentally different coding schemes: analog coding schemes for linear networks, redundant coding schemes for sigmoidal networks, and sparse coding schemes for ReLU networks. This variety is explained in our theory by the structure of the posterior. From a technical point of view, the main challenge was that the feature learning regime is deeply non-Gaussian; the key to address this challenge was to identify appropriate order parameters.
+
 #### Unified Field Theoretical Approach to Deep and Recurrent Neuronal Networks
 
 <img src="assets/png/JSTAT22_Fig1.png" alt="gp limit" width="350" border="2px solid #555"/>
