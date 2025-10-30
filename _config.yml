@@ -17,6 +17,13 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+collections:
+  research:
+    output: true
+    order:
+      - bayesian_nets.md
+      - random_rnns.md
+
 minima:
   skin: classic
   show_excerpts: false
