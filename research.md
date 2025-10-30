@@ -7,7 +7,7 @@ For a complete list of publications see my [Google Scholar](https://scholar.goog
 
 ## Selected Topics
 
-Click on a topic for brief descriptions of selected publications.
+*Click on a topic for brief descriptions of selected publications.*
 
 {% for project in site.research %}
   <h3>
