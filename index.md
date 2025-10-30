@@ -3,7 +3,7 @@ layout: home
 title: Alexander van Meegen
 ---
 
-## Welcome!
+## Theory of Neural Networks
 
 I am a scientist who is fascinated by neural networks---both the biological ones inside our head as well as their artificial counterparts powering AI. These networks work amazingly well (for the most part). However, we still have a rather shallow understanding of the underlying principles. The goal of my research is to address this challenge and to develop a solid theoretical understanding of the principles underlying biological and artificial neural networks. The main tools to achieve this goal are methods from theoretical physics.
 
