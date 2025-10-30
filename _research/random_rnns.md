@@ -11,6 +11,16 @@ For random networks, one can start from the N-dimensional, coupled system of dif
 * this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
+#### Fixed Point Geometry in Chaotic Neural Networks
+
+<img src="../assets/png/PRR25_Fig1.png" alt="empirical measure, distances, complexity" width="350" border="2px solid #555"/>
+<img src="../assets/png/PRR25_Fig3.png" alt="fixed point spectra" width="350" border="2px solid #555"/>
+
+* **Publication**: J. Stubenrauch, C. Keup, A.C. Kurth, M. Helias, and A. van Meegen, [Phys. Rev. Research **7**, 023203 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023203)
+* **Talk**: *COSYNE 2023*, Lisbon, Portugal ([pdf](../assets/pdf/COSYNE23_pstopology.pdf))
+
+<!--TODO-->
+
 #### Large-Deviation Approach to Random Recurrent Neuronal Networks:<br> Parameter Inference and Fluctuation-Induced Transitions
 
 <img src="../assets/png/PRL21_Fig3.png" alt="fluctuations" width="350" border="2px solid #555"/>
