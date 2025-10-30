@@ -4,7 +4,10 @@ title: Dynamics of Random Recurrent Networks
 ---
 
 The structure of cortical networks of mammals is only known on a statistical level. Thus, they are typically modeled as random networks with the appropriate connectivity statistics. Conveniently, quite a bit about the dynamics of random networks can be deduced using tools from statistical physics.
+
 For random networks, one can start from the N-dimensional, coupled system of differential equations which describe the dynamics of the network and arrive, through a series of systematic approximations, at an effective lower-dimensional description. This approach, called Dynamic Mean-Field Theory (DMFT) in the pioneering work by [Sompolinsky, Crisanti, and Sommers](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.61.259), relies heavily on techniques from field theory (see the lecture notes [Helias & Dahmen 2020](https://www.springer.com/de/book/9783030464431) for an introduction). Albeit mathematically involved, the final result is intuitive: the recurrent input to a neuron is approximated as a Gaussian process with self-consistent statistics.
+
+<!--more-->
 
 ### Table of Contents
 {:.no_toc}

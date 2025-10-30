@@ -24,6 +24,8 @@ collections:
       - bayesian_nets.md
       - random_rnns.md
 
+excerpt_separator: <!--more-->
+
 minima:
   skin: classic
   show_excerpts: false
