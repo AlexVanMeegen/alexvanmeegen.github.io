@@ -22,7 +22,9 @@ For random networks, one can start from the N-dimensional, coupled system of dif
 * **Publication**: J. Stubenrauch, C. Keup, A.C. Kurth, M. Helias, and A. van Meegen, [Phys. Rev. Research **7**, 023203 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023203)
 * **Talk**: *COSYNE 2023*, Lisbon, Portugal ([pdf](../assets/pdf/COSYNE23_pstopology.pdf))
 
-<!--TODO-->
+While low dimensional chaos is well understood, its high dimensional (extensive) counterpart remains elusive. Random recurrent neural networks are rare examples of high dimensional chaotic systems retaining analytical tractability. Their phase space has an exponential number of fixed points ([Wainrib & Touboul, 2013](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.118101)) but even the basic structure of the phase space, e.g., the location of the fixed points, is unknown.
+
+Using the Kac-Rice formalism, we derived the distribution of fixed points of the classical random recurrent network by [Sompolinsky, Crisanti, and Sommers](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.61.259). To our surprise, we found that the dynamics (the chaotic attractor) and the fixed points are geometrically separated: they are on hyperspheres with different radii. Despite this radial separation, fixed points and dynamics live in aligned subspaces. Overall, this provides a first glimpse of the phase space properties of an extensively chaotic system.
 
 #### Large-Deviation Approach to Random Recurrent Neuronal Networks:<br> Parameter Inference and Fluctuation-Induced Transitions
 
