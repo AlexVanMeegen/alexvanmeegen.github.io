@@ -7,6 +7,8 @@ You can find a full CV here: [October 2025](assets/pdf/CV.pdf)
 
 ### Academic Positions
 
+**Assistant Professor (W1)**: [Department of Physics, RWTH Aachen University](https://www.physik.rwth-aachen.de/cms/~mya/physik/?lidx=1)
+
 **Scientist**: [Brain Mind Institute, EPFL](https://www.epfl.ch/schools/sv/bmi/)\
 Mentor: [Wulfram Gerstner](https://www.epfl.ch/labs/lcn/)
 
