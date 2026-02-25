@@ -1,7 +1,7 @@
 title: Home
 author:
   name: Alexander van Meegen
-  email: alexander.vanmeegen@epfl.ch
+  email: alexander.van.meegen@rwth-aachen.de
 description: >
   Theory of neural networks (how the heck do they work?)
 
@@ -48,6 +48,3 @@ minima:
     - title: Github
       icon: github
       url: "https://github.com/alexvanmeegen"
-    - title: X
-      icon: x-twitter
-      url: "https://twitter.com/alexvanmeegen"
