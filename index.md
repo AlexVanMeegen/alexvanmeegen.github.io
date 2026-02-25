@@ -5,11 +5,11 @@ title: Alexander van Meegen
 
 ## Theory of Neural Networks
 
-I'm a scientist who is fascinated by neural networks---both the biological ones inside our head as well as their artificial counterparts powering AI. These networks work amazingly well (for the most part). However, we still have a rather shallow understanding of the underlying principles. The goal of my research is to address this challenge and to develop a solid theoretical understanding of the principles underlying biological and artificial neural networks. The main tools to achieve this goal are methods from theoretical physics.
+I am an assistant professor (W1) at [RWTH Aachen University](https://www.rwth-aachen.de/en/). Scientifically, I am fascinated by neural networks---both the biological ones inside our head as well as their artificial counterparts powering AI. These networks work amazingly well (for the most part). However, we still have a rather shallow understanding of the underlying principles. The goal of my research is to address this challenge and to develop a solid theoretical understanding of the principles underlying biological and artificial neural networks. The main tools to achieve this goal are methods from theoretical physics.
 
 ### PostDoc
 
-Currently, I'm a PostDoc at [EPFL Lausanne](https://www.epfl.ch/en/) in [Wulfram Gerstner's Lab](https://www.epfl.ch/labs/lcn/). In extensive collaborations with various of the amazing members of the team, I work on a range of topics from loss landscapes to recurrent networks and self-supervised learning.
+Before coming to Aachen, I was a PostDoc at [EPFL Lausanne](https://www.epfl.ch/en/) in [Wulfram Gerstner's Lab](https://www.epfl.ch/labs/lcn/). In extensive collaborations with various of the amazing members of the team, I worked on a range of topics from loss landscapes to recurrent networks and self-supervised learning.
 Prior, I was a Swartz Fellow at the [Center for Brain Science](https://cbs.fas.harvard.edu/) at [Harvard University](https://www.harvard.edu/) working with [Haim Sompolinsky](https://cbs.fas.harvard.edu/community/people/haim-sompolinsky). With Haim, I developed a theory of supervised learning deep in the feature learning regime, which enabled a thorough understanding of the learned representations---from the network level down to the level of single neurons.
 
 
