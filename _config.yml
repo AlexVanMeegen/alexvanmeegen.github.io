@@ -27,7 +27,7 @@ collections:
 excerpt_separator: <!--more-->
 
 minima:
-  skin: auto
+  skin: classic
   show_excerpts: false
   hide_site_feed_link: true
   nav_pages:
