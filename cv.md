@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-You can find a full CV here: [October 2025](assets/pdf/CV.pdf)
+You can find a full CV here: [October 2026](assets/pdf/CV.pdf)
 
 ### Academic Positions
 
