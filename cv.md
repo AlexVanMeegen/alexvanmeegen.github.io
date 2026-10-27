@@ -19,7 +19,7 @@ Mentor: [Haim Sompolinsky](https://sites.harvard.edu/sompolinsky-group/)
 
 **PhD in Computational Neuroscience**: [Research Centre Jülich](https://www.fz-juelich.de/en)\
 Thesis title: *Simulation and Theory of Large-Scale Cortical Networks*\
-Advisors: [Moritz Helias](https://www.fz-juelich.de/en/inm/inm-6/forschung/theory-of-multi-scale-neuronal-networks-b-fg-template) & [Sacha van Albada](https://www.fz-juelich.de/en/inm/inm-6/forschung/theoretical-neuroanatomy-b-fg-template)
+Advisor: [Sacha van Albada](https://www.fz-juelich.de/en/inm/inm-6/forschung/theoretical-neuroanatomy-b-fg-template)
 
 **Master of Science in Physics**: [Humboldt Universität zu Berlin](https://www.hu-berlin.de/en)\
 Thesis title: *Colored Noise Problems in Neurophysics*\
